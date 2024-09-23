@@ -21,7 +21,7 @@ The project consists of two boards:
 - Each sensor board will use the TLSR8250F512ET32 microcontroller. This selection is open to suggestions however. Only the most feasilbe, compact and power friendly must be selected.
 - The SHTC3 will be used as the temperature sensor.
 - The sensors will be powered by a CR2477 battery. This selection is open to suggestions however. Maximum backup in minimum size is preferred.
-- The casing is not yet developed for the sensor board so there is open window here. However, compactness must be achieved regardless.
+- The casing files are present in docs. Circuit selection should be done accordingly.
 
 #### Existing Sensor Board Design
 ![image](https://github.com/user-attachments/assets/c154cfd3-983f-450a-9d9e-de15547e6475)
