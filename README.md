@@ -7,10 +7,11 @@ The project consists of two boards:
 2. Sensor Board
 
 ### Main Board Requirements
-- Based off of ESP32 based development kit.
+- Based off of ESP32 module and related circuitry (most easily and in good stock on JLCPCB).
 - Backup battery to ensure data is not lost in case of power outage.
 - The board should also have other peripherals as present in attached images below. The only two additions / modifications are mentioned in above two points.
 - Preference to make the battery rechargeable as well but only if the size doesn't increase because casing is prepared for Main Board. Step file for main board casing is pushed to project docs.
+- The full design should be made through JLCPCB.
   
 #### Existing Main Board Design
 ![image](https://github.com/user-attachments/assets/4db5652d-abb2-4443-b199-4bcd67bbb56e)
