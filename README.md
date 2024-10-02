@@ -11,6 +11,7 @@ The project consists of two boards:
 - Backup battery to ensure data is not lost in case of power outage.
 - The board should also have other peripherals as present in attached images below. The only two additions / modifications are mentioned in above two points.
 - Preference to make the battery rechargeable as well but only if the size doesn't increase because casing is prepared for Main Board. Step file for main board casing is pushed to project docs.
+- Programming to be done via USB-B as well voltlink connector as a secondary option.
 - The full design should be made through JLCPCB.
   
 #### Existing Main Board Design
