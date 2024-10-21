@@ -4,9 +4,9 @@ D:\eSpark-Consultants\ridvanbozkir-espboard\Design Files\Sensor Board - v1.0\Pro
 ========================================================================================================================
 File Design Information:
 
-Date:       18/10/24
-Time:       13:41
-Revision:   f7d8026c5cc2be94d4a313f7cabbebb9c1249c42
+Date:       21/10/24
+Time:       16:09
+Revision:   2c6e0cfc9b106e7e3d5f500675758350a6aa53a3
 Variant:    No variations
 Units used: mm
 
