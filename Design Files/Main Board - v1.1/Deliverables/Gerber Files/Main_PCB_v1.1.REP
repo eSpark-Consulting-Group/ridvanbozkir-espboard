@@ -1,47 +1,9 @@
 *************************************************************
-FileName = Main_PCB_v1.0.GBR
+FileName = Main_PCB_v1.1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : Main_PCB_v1.0.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Main_PCB_v1.0.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D174
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Main_PCB_v1.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Main_PCB_v1.0.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : Main_PCB_v1.1.GPT
 
     Adding Layer      : Top Layer
 
@@ -75,13 +37,21 @@ Used DCodes :
     D55
     D56
     D57
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Main_PCB_v1.0.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Pad Master
+      File : Main_PCB_v1.1.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -89,23 +59,44 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Main_PCB_v1.1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Main_PCB_v1.1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D174
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : Main_PCB_v1.0.GTS
+      File : Main_PCB_v1.1.GTS
 
     Adding Layer      : Top Solder
 
@@ -160,20 +151,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Main_PCB_v1.0.GBO
+Generating : Bottom Paste
+      File : Main_PCB_v1.1.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D17
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : Main_PCB_v1.0.GTO
+      File : Main_PCB_v1.1.GTO
 
     Adding Layer      : Top Overlay
 
@@ -204,78 +197,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : Main_PCB_v1.0.GPT
+Generating : Board Outline
+      File : Main_PCB_v1.1.GM2
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D157
-    D158
-    D159
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Main_PCB_v1.0.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D157
-    D158
-    D159
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
+    D10
 *************************************************************
 
 *************************************************************
 Generating : Bottom Layer
-      File : Main_PCB_v1.0.GBL
+      File : Main_PCB_v1.1.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -309,7 +243,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Layer
-      File : Main_PCB_v1.0.GTL
+      File : Main_PCB_v1.1.GTL
 
     Adding Layer      : Top Layer
 
@@ -414,8 +348,74 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : Main_PCB_v1.1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Main_PCB_v1.1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
 Generating : Drill Drawing
-      File : Main_PCB_v1.0.GD1
+      File : Main_PCB_v1.1.GD1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -429,7 +429,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Guide
-      File : Main_PCB_v1.0.GG1
+      File : Main_PCB_v1.1.GG1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -442,7 +442,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Profile
-      File : Main_PCB_v1.0.GM
+      File : Main_PCB_v1.1.GM
 
 
 Used DCodes :
