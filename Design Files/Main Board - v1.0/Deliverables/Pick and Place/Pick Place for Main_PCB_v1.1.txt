@@ -4,15 +4,15 @@ D:\eSpark-Consultants\ridvanbozkir-espboard\Design Files\Main Board - v1.0\Proje
 ========================================================================================================================
 File Design Information:
 
-Date:       03/10/24
-Time:       20:57
-Revision:   b285f9c068f1d9306ef610ffa47e2975919bccec
+Date:       08/04/25
+Time:       14:24
+Revision:   0a503fd7a1e015840223082300a6362bd0ac5bf6
 Variant:    No variations
 Units used: mm
 
 Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+D2         TopLayer    43.5181mm    7.9756mm     90       43.5181mm 7.9756mm  43.5181mm 6.4006mm  
 U6         TopLayer    7.3914mm     32.0010mm    180      7.3914mm  32.0010mm 9.7914mm  30.5010mm 
-U4         TopLayer    19.0246mm    23.9492mm    180      19.0246mm 23.9492mm 20.5246mm 25.0817mm 
 SW2        TopLayer    34.8755mm    48.7268mm    0        34.8755mm 48.7268mm 33.1755mm 48.7268mm 
 SW1        TopLayer    40.3589mm    48.7268mm    180      40.3589mm 48.7268mm 42.0589mm 48.7268mm 
 R21        TopLayer    7.8891mm     25.1944mm    0        7.8891mm  25.1944mm 7.4192mm  25.1944mm 
@@ -32,8 +32,6 @@ D10        TopLayer    3.0480mm     7.7344mm     270      3.0480mm  7.7344mm  3.
 D9         TopLayer    3.0480mm     4.8230mm     90       3.0480mm  4.8230mm  3.0480mm  4.2230mm  
 C33        TopLayer    12.3089mm    34.2630mm    270      12.3089mm 34.2630mm 12.3089mm 35.0250mm 
 C32        TopLayer    10.9723mm    33.9709mm    90       10.9723mm 33.9709mm 10.9723mm 33.5010mm 
-C12        TopLayer    15.8496mm    24.1419mm    90       15.8496mm 24.1419mm 15.8496mm 23.3799mm 
-C11        TopLayer    19.7866mm    26.9464mm    180      19.7866mm 26.9464mm 20.5486mm 26.9464mm 
 C10        TopLayer    40.3589mm    46.1614mm    0        40.3589mm 46.1614mm 39.8890mm 46.1614mm 
 C9         TopLayer    49.0681mm    40.4084mm    180      49.0681mm 40.4084mm 49.5380mm 40.4084mm 
 C8         TopLayer    49.0681mm    41.5006mm    180      49.0681mm 41.5006mm 49.5380mm 41.5006mm 
@@ -56,7 +54,7 @@ R3         TopLayer    27.9200mm    18.8618mm    90       27.9200mm 18.8618mm 27
 R1         TopLayer    47.3282mm    18.9680mm    90       47.3282mm 18.9680mm 47.3282mm 18.4981mm 
 Q2         TopLayer    8.1198mm     15.8048mm    0        8.1198mm  15.8048mm 7.1698mm  14.8048mm 
 Q1         TopLayer    39.7056mm    16.9186mm    180      39.7056mm 16.9186mm 40.6556mm 17.9186mm 
-LS1        TopLayer    41.8900mm    8.8414mm     180      41.8900mm 8.8414mm  45.1900mm 8.8414mm  
+LS1        TopLayer    47.7266mm    8.1788mm     270      47.7266mm 8.1788mm  45.9765mm 9.9289mm  
 LED1       TopLayer    1.8342mm     16.2836mm    180      1.8342mm  16.2836mm 2.5842mm  16.2836mm 
 L1         TopLayer    15.2354mm    15.1209mm    90       15.2354mm 15.1209mm 15.2354mm 14.0709mm 
 J2         TopLayer    27.9708mm    4.2694mm     0        27.9708mm 4.2694mm  24.7958mm 8.7144mm  
